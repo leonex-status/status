@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1510,
-    "timeDay": 1510,
-    "timeWeek": 1510,
-    "timeMonth": 1510,
-    "timeYear": 1510,
+    "time": 1654,
+    "timeDay": 1654,
+    "timeWeek": 1654,
+    "timeMonth": 1654,
+    "timeYear": 1654,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "API",
-    "url": "https://api.leonex.de/health",
-    "icon": "https://icons.duckduckgo.com/ip3/api.leonex.de.ico",
-    "slug": "api",
-    "status": "down",
-    "uptime": "7.86%",
-    "uptimeDay": "7.86%",
-    "uptimeWeek": "7.86%",
-    "uptimeMonth": "7.86%",
-    "uptimeYear": "7.86%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-01-30": 0
-    }
   }
 ]
